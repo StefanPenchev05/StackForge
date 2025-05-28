@@ -1,0 +1,16 @@
+name: fullstack-ms-tamplate
+description: >
+  A full-stack monorepo template for scalable applications using 
+  microservices (Node.js + Go), React + TailwindCSS frontend, 
+  MongoDB, Docker, and a CLI tool to generate backend services.
+
+# Optional: choose a label or type
+labels:
+  - template
+  - monorepo
+  - fullstack
+  - microservices
+
+# Template metadata
+icon: package
+color: blue
