@@ -1,0 +1,6 @@
+{
+    "/api/test": {
+        "target": "http://localhost:3001",
+        "authRequired": true
+    }
+}

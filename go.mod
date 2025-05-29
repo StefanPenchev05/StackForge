@@ -1,4 +1,4 @@
-module github.com/StefanPenchev05/StackForge/backend/cli
+module github.com/StefanPenchev05/StackForge
 
 go 1.24.3
 
