@@ -1,6 +1,12 @@
 {
     "/api/test": {
-        "target": "http://localhost:3001",
-        "authRequired": true
+        "target": "http://localhost:3000",
+        "authRequired": false,
+        "customMiddleware": [
+            {
+                "path": "./middlewares/logRequest",
+                "target": "logRequest"
+            }
+        ]
     }
 }
